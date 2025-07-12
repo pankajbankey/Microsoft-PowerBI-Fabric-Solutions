@@ -1,0 +1,36 @@
+# Microsoft Power BI / Fabric Solutions
+
+This repository showcases practical, real-world solutions built using **Microsoft Power BI** and **Microsoft Fabric**. It includes sample reports, data models, DAX scripts, automation pipelines, and deployment strategies to accelerate your journey in business intelligence, data analytics, and modern data warehousing.
+
+## 🚀 What You'll Find
+
+- 📊 Interactive Power BI Dashboards & Reports
+- 🧠 DAX Calculations and Performance Tips
+- 🏗️ Lakehouse & Data Warehouse Models (Fabric)
+- 🔄 Dataflows, Pipelines, and Automation Scripts
+- 🛠️ Deployment Best Practices for Power BI & Fabric
+- 🔍 Use Cases: Financial Reporting, Operations, Sales, Customer Insights, and more
+
+## 💼 Use Cases
+
+- Business Intelligence for Finance, Sales, and Operations
+- Data Governance and Fabric-based Lakehouse Architecture
+- CI/CD and DevOps for Power BI deployments
+- Advanced Analytics using Power BI and Synapse Data Engineering
+
+## 📌 Technologies Used
+
+- Microsoft Power BI
+- Microsoft Fabric (Data Factory, Synapse, Lakehouse)
+- DAX, Power Query (M), T-SQL
+- Azure Data Services
+- GitHub Actions (for CI/CD integration)
+
+## 🤝 Contributions
+
+Contributions, issues, and ideas are welcome! This is a growing repository — feel free to fork, clone, and collaborate.
+
+---
+
+> **Note:** This repo is intended for educational and prototyping purposes. Be sure to tailor solutions for production environments.
+
